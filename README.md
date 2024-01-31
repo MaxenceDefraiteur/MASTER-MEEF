@@ -13,6 +13,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Vidéo](https://dgxy.link/video.correction.ds.exercices)
 - [Exercices de remédiation](https://dgxy.link/exercices.remediation)
 - [Exercice facultatif : triangulation](https://dgxy.link/exercice.facultatif.triangulation)
+- [Corrections : exercices de remédiation](./Formations/Nombres.rationnels.Triangles.Egaux/Correction/Correction.exercices.de.remediation.pdf)
 
 # Activités de mon mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/)
