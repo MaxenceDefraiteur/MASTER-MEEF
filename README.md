@@ -9,7 +9,10 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Fichier final geogebra gobelets rouges et bleus](https://www.geogebra.org/m/uvgf5cak))
 
 # Stage
-
+## Correction DS (nombres rationnels + triangles égaux)
+- [Vidéo](https://dgxy.link/video.correction.ds.exercices)
+- [Exercices de remédiation](https://dgxy.link/exercices.remediation)
+- [Exercice facultatif : triangulation](https://dgxy.link/exercice.facultatif.triangulation)
 
 # Activités de mon mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/)
