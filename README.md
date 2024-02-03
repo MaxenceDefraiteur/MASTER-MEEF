@@ -1,6 +1,8 @@
 # Quid ?
 Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports créés durant ma formation en Master MÉEF de Mathématiques. (2022-2024)
 
+{:toc}
+
 # Formations
 ## Stacking cups
 - [Présentation Stacking cups](./Formations/Stacking.Cups/index.html) + [version pdf](./Formations/Stacking.Cups/pdf/stacking.cups.pdf)
