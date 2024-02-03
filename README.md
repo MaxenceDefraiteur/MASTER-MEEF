@@ -19,4 +19,4 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/)
 
 # Portfolio
-- [Attendus de fin de formation](./Portoflio/Liste.ADF.md) 
+- [Attendus de fin de formation](./Portfolio/Liste.ADF.md) 
