@@ -59,8 +59,8 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 ### Niveau intermédiaire
 #### Christophe Poulain
-- [Macro ProfCollege](https://www.di.ens.fr/~ccheval/partie_1_2x2.pdf](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)
-- [Macro ProfMaquette](https://www.di.ens.fr/~ccheval/partie_1_2x2.pdf](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf](https://ctan.mines-albi.fr/macros/latex/contrib/profmaquette/doc/ProfMaquette-doc.pdf)https://ctan.mines-albi.fr/macros/latex/contrib/profmaquette/doc/ProfMaquette-doc.pdf)
+- [Macro ProfCollege](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)
+- [Macro ProfMaquette](https://ctan.mines-albi.fr/macros/latex/contrib/profmaquette/doc/ProfMaquette-doc.pdf)
 
 #### Arnaud Gazagnes
 - [LaTeX pour le prof de maths](https://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf)
