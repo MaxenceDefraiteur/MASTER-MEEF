@@ -13,6 +13,8 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
   * [LaTeX](#latex)
+* [Lectures](#lectures)
+* [Philosophie de l'enseignement](#philosophie-de-l-enseignement)
 
 # Formations
 ## Stacking-cups
@@ -84,6 +86,11 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 ### Christophe Poulain
 - [Melusine Syracuse](https://melusine.eu.org/syracuse/poulecl/)
+
+# Lectures
+
+
+# Philosophie-de-l-enseignement
 
 ### Mohammed Nassiri
 - [Coquillage et Poincaré](https://www.coquillagesetpoincare.fr/)
