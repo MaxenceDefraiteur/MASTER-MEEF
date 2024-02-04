@@ -59,7 +59,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 ### Niveau intermédiaire
 #### Christophe Poulain
-- [Macro ProfCollege](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)
+- [Macro ProfCollege](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)
 - [Macro ProfMaquette](https://ctan.mines-albi.fr/macros/latex/contrib/profmaquette/doc/ProfMaquette-doc.pdf)
 
 #### Arnaud Gazagnes
