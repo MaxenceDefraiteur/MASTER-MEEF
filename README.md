@@ -1,15 +1,27 @@
-# Quid ?
+# Quesaco ?
 Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports créés durant ma formation en Master MÉEF de Mathématiques. (2022-2024)
 
-  
+# Table des matières
+* [Formations](#formations)
+  * [Stacking cups](#stacking-cups)
+* [Enseignement en stage](#enseignement-en-Stage)
+  * [Collège](#collège)
+    * [6 ème](#6eme)
+    * [4 ème](#4eme)
+  * [Lycée](#lycée)
+* [Mémoire](#Activités-de-mon-mémoire)
+* [Portfolio](#Portfolio)
+* [Documentations](#documentations)
+  * [LaTeX](#laTeX)
+
 # Formations
-## Stacking cups
+## Stacking-cups
 - [Présentation Stacking cups](./Formations/Stacking.Cups/index.html) + [version pdf](./Formations/Stacking.Cups/pdf/stacking.cups.pdf)
 - [Fichier geogebra gobelets bleus](https://www.geogebra.org/m/rnhdexfe))
 - [Fichier geogebra gobelets rouges](https://www.geogebra.org/m/rxdfvqqr))
 - [Fichier final geogebra gobelets rouges et bleus](https://www.geogebra.org/m/uvgf5cak))
 
-# Enseignement en Stage
+# Enseignement-en-Stage
 ## Collège
 ### 6eme
 - Symétrie axiale
@@ -31,7 +43,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - Produit Scalaire
 - Trigonométrie
 
-# Activités de mon mémoire
+# Activités-de-mon-mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/)
 
 # Portfolio
