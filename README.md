@@ -4,12 +4,12 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 # Table des matières
 * [Formations](#formations)
   * [Stacking cups](#stacking-cups)
-* [Enseignement en stage](#enseignement-en-Stage)
+* [Enseignement en stage](#enseignement-en-stage)
   * [Collège](#collège)
     * [6 ème](#6eme)
     * [4 ème](#4eme)
   * [Lycée](#lycée)
-* [Mémoire](#memoire)
+* [Mémoire](#mémoire)
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
   * [LaTeX](#latex)
@@ -87,12 +87,14 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 ### Christophe Poulain
 - [Melusine Syracuse](https://melusine.eu.org/syracuse/poulecl/)
 
+### Mohammed Nassiri
+- [Coquillage et Poincaré](https://www.coquillagesetpoincare.fr/)
+
 # Lectures
 
 
 # Philosophie-de-l-enseignement
 
-### Mohammed Nassiri
-- [Coquillage et Poincaré](https://www.coquillagesetpoincare.fr/)
+
 
 # TICE
