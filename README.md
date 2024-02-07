@@ -26,10 +26,10 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - Symétrie axiale
    - [Cours Symétrie axiale](./Enseignement/Stage/College/6eme/symetrie.axiale.pdf)
    - [Activite Geogebra logo de la classe](./Enseignement/Stage/College/6eme/Activites/Activite.Geogebra.Belle.Figure.pdf)
-   - [Activite Parthénon](./Enseignement/Stage/College/6eme/Activites/Activite.Parthenon.pdf)
+   - [Activite Parthénon](./Enseignement/Stage/College/6eme/Activites/Activite.Parthenon.pdf) + [Support papier Parthénon](./Enseignement/Stage/College/6eme/Activites/parthenon.bis.pdf)
    - [Activité tâche d'encre](./Enseignement/Stage/College/6eme/Activites/Activite.tache.d.encre.pdf)
    - [Correction activité géogébra logo](./Enseignement/Stage/College/6eme/Activites/Correction.Activite.Geogebra.Belle.Figure.pdf)
-   - [Parthénon fichier brut](./Enseignement/Stage/College/6eme/Activites/parthenon.bis.pdf)
+
 - Droites, figures usuelles
    - ajouts à venir
 - Périmètre
