@@ -11,7 +11,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 * [Mémoire](#mémoire)
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
-  * [LaTeX](#latex)
+  * [LaTeX](#latex) (Niveaux : [1](#niveau-débutant),[1](#niveau-débutant),3)
 * [Formations](#formations)
   * [Stacking cups](#stacking-cups)
 * [Mathématiques](#mathématiques)
@@ -66,11 +66,21 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 # Documentations
 ## Latex
-### Niveau Débutant
+Temps d'apprentissage long au début mais fait gagner beaucoup de temps sur le long terme. Ne serait-ce que pour une utilisation rudimentaire du langage avec KaTeX dans LibreOffice par exemple. Rendez vos formules et écritures plus belle et plus facile à lire. 😉
+### Niveau-débutant
 - [Initiation à LaTeX](https://mirrors.ibiblio.org/CTAN/info/guide-latex-fr/guide-latex-fr.pdf)
 - [Débuter avec LaTeX](https://www.di.ens.fr/~ccheval/partie_1_2x2.pdf)
+- [KaTeX](https://katex.org/)
 
-### Niveau intermédiaire
+### Niveau-intermédiaire
+- [Tikz pour l'impatient](http://math.et.info.free.fr/TikZ/bdd/TikZ-Impatient.pdf)
+- [Tikz : tableau de variation et de signe](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/tkz/tkz-tab/doc/TKZdoc-tab.pdf) ([CTAN](https://ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-tab))
+- [Beamer](https://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
+
+#### Autres contributeurs
+- [Ecran TI-82](https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/tiscreen/doc/tiscreen-doc.pdf)
+
+### Niveau-avancé
 #### Christophe Poulain
 - [Macro ProfCollege](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/profcollege/doc/ProfCollege-doc.pdf)
 - [Macro ProfMaquette](https://ctan.mines-albi.fr/macros/latex/contrib/profmaquette/doc/ProfMaquette-doc.pdf)
@@ -82,14 +92,6 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Macro ProfLycee](https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/proflycee/doc/ProfLycee-doc.pdf)
 - [Piton](https://mirrors.ircam.fr/pub/CTAN/macros/latex/contrib/proflycee/doc/ProfLycee-exemples-pyluatex.pdf)
 - [Pythontex](https://ctan.gutenberg-asso.fr/macros/latex/contrib/proflycee/doc/ProfLycee-exemples-pythontex.pdf)
-
-#### Autres contributeurs
-- [Ecran TI-82](https://mirror.ibcp.fr/pub/CTAN/macros/latex/contrib/tiscreen/doc/tiscreen-doc.pdf)
-
-### Niveau avancé
-- [Tikz pour l'impatient](http://math.et.info.free.fr/TikZ/bdd/TikZ-Impatient.pdf)
-- [Tikz : tableau de variation et de signe](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/tkz/tkz-tab/doc/TKZdoc-tab.pdf) ([CTAN](https://ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-tab))
-- [Beamer](https://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
 
 # Formations
 ## Stacking-cups
@@ -124,7 +126,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 # TICE
 ## Services et logiciels libres
-- [Libre Office](https://www.coquillagesetpoincare.fr/)
+- [Libre Office](https://www.coquillagesetpoincare.fr/) avec quelques extensions ([KateX maths](https://extensions.libreoffice.org/en/extensions/show/texmaths-1) , [Cartable fantastique](https://www.cartablefantastique.fr/outils-pour-compenser/le-plug-in-libre-office/)
 - [Github Pages](https://pages.github.com/)
 - [Framasoft](https://docs.framasoft.org/fr/grav/markdown.html#couleurs)
 - [Inkscape](https://inkscape.org/fr/)
