@@ -2,21 +2,21 @@
 Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports créés durant ma formation en Master MÉEF de Mathématiques. (2022-2024)
 
 # Table des matières
-* [Enseignement en stage](#enseignement-en-stage)
+* <span style="color: #051AF6">[Enseignement en stage](#enseignement-en-stage)</span>
   * [Collège](#collège)
     * [6 ème](#6eme)
     * [4 ème](#4eme)
   * [Lycée](#lycée)
     * [Première](#première)
-* [Mémoire](#mémoire)
+* <span style="color: #26B260">[Mémoire](#mémoire)</span>
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
   * [LaTeX](#latex)
-* [Formations](#formations)
+* <span style="color: #26B260">[Formations](#formations)</span>
   * [Stacking cups](#stacking-cups)
-* [Mathématiques](#mathématiques)
-* [Lectures](#lectures)
-* [Philosophie de l'enseignement](#philosophie-de-l-enseignement)
+* <span style="color: #26B260">[Mathématiques](#mathématiques)</span>
+* <span style="color: #900C3F">[Lectures](#lectures)</span>
+* <span style="color: #26B260">[Philosophie de l'enseignement](#philosophie-de-l-enseignement)</span>
 
 
 
