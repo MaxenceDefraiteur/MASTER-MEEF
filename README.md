@@ -67,7 +67,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 # Documentations
 ## Latex
-Temps d'apprentissage long au début mais fait gagner beaucoup de temps sur le long terme. Ne serait-ce que pour une utilisation rudimentaire du langage avec KaTeX dans LibreOffice par exemple. Rendez vos formules et écritures plus belle et plus facile à lire. 😉
+Temps d'apprentissage long au début mais cela fait gagner beaucoup de temps sur le long terme. Ne serait-ce que pour une utilisation rudimentaire du langage avec KaTeX dans LibreOffice par exemple. Rendez vos formules et écritures plus belle et plus facile à lire. 😉
 ### Niveau-débutant
 - [Initiation à LaTeX](https://mirrors.ibiblio.org/CTAN/info/guide-latex-fr/guide-latex-fr.pdf)
 - [Débuter avec LaTeX](https://www.di.ens.fr/~ccheval/partie_1_2x2.pdf)
