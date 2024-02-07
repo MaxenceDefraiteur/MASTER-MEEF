@@ -90,6 +90,8 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 ## Mathématiques 
 ### Sites académiques
 
+### Professeurs de mathématiques
+
 ### Clémentine Scohy
 - [Clémentine Scohy](https://madame-scohy.fr/about/)
 
