@@ -19,14 +19,20 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 # Formations
 ## Stacking-cups
 - [Présentation Stacking cups](./Formations/Stacking.Cups/index.html) + [version pdf](./Formations/Stacking.Cups/pdf/stacking.cups.pdf)
-- [Fichier geogebra gobelets bleus](https://www.geogebra.org/m/rnhdexfe))
-- [Fichier geogebra gobelets rouges](https://www.geogebra.org/m/rxdfvqqr))
+- [Fichier geogebra gobelets bleus](https://www.geogebra.org/m/rnhdexfe)
+- [Fichier geogebra gobelets rouges](https://www.geogebra.org/m/rxdfvqqr)
 - [Fichier final geogebra gobelets rouges et bleus](https://www.geogebra.org/m/uvgf5cak))
 
 # Enseignement-en-Stage
 ## Collège
 ### 6eme
 - Symétrie axiale
+   - [Cours Symétrie axiale](./Enseignement/Stage/College/6eme/symetrie.axiale.pdf)
+   - [Activite Geogebra logo de la classe](./Enseignement/Stage/College/6eme/Activites/Activite.Geogebra.Belle.Figure.pdf)
+   - [Activite Parthénon](./Enseignement/Stage/College/6eme/Activites/Activite.Parthenon.pdf)
+   - [Activité tâche d'encre](./Enseignement/Stage/College/6eme/Activites/Activite.tache.d.encre.pdf)
+   - [Correction activité géogébra logo](./Enseignement/Stage/College/6eme/Activites/Correction.Activite.Geogebra.Belle.Figure.pdf)
+   - [Parthénon fichier brut](./Enseignement/Stage/College/6eme/Activites/parthenon.bis.pdf)
 - Droites, figures usuelles
 - Périmètre
 
@@ -44,6 +50,8 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 ## Lycée
 - Produit Scalaire
 - Trigonométrie
+  - [Impressions des élèves](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/Impressions_sur_les_trois_semaines_denseignement_vécues_pendant_les_périodes_de_stage_du_mois_de_novembre_2022_et_mars_2023_au_lycée_Yves_Kernanec._-_all_versions_-_labels_-_2023-03-30-19-41-01.pdf)
+  - [Fichier geogebra trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/trigo.ggb)
 
 # Mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/) (Activités)
