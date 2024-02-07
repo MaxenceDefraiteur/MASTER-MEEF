@@ -1,4 +1,4 @@
-# Quesaco ?
+# Quésaco ?
 Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports créés durant ma formation en Master MÉEF de Mathématiques. (2022-2024)
 
 # Table des matières
