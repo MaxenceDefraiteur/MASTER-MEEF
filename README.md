@@ -13,7 +13,6 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 * [Documentations](#documentations)
   * [LaTeX](#latex) (Niveaux : [1](#niveau-débutant),[2](#niveau-intermédiaire),[3](#niveau-avancé))
 * [Formations](#formations)
-  * [Stacking cups](#stacking-cups)
 * [Mathématiques](#mathématiques)
 * [Lectures](#lectures)
 * [Philosophie de l'enseignement](#philosophie-de-l-enseignement)
