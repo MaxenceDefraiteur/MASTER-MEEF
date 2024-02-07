@@ -120,7 +120,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 # Minilab
 - Géométron (instrument de géométrie) : ajout à venir
-- [color=#26B260]texte coloré en vert[/color]
+- <span style="color: #26B260">texte coloré en vert</span>
 
 
 # TICE
