@@ -119,8 +119,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - ajouts à venir
 
 # Minilab
-- Géométron (instrument de géométrie) : ajout à venir
-- <span style="color: #26B260">texte coloré en vert</span>
+- Géométron (instrument de géométrie) : ajout à venir (adaptation pour élève dyspraxique ? )
 
 
 # TICE
