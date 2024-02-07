@@ -131,6 +131,7 @@ Temps d'apprentissage long au début mais cela fait gagner beaucoup de temps sur
 - [Github Pages](https://pages.github.com/)
 - [Framasoft](https://docs.framasoft.org/fr/grav/markdown.html#couleurs)
 - [Inkscape](https://inkscape.org/fr/)
+- [La digitale](https://ladigitale.dev/) + (Mon préféré : [Digi link](https://ladigitale.dev/digilink/)
 - [Wiktionary](https://www.wiktionary.org/) + en complément : [Dictionnaire de l'académie française](https://www.dictionnaire-academie.fr/)
 
 ## Sites utiles pour une utilisation en classe
