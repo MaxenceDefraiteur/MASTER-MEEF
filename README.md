@@ -62,7 +62,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 # Documentations
 ## Latex
 ### Niveau Débutant
-- [Initiation à LaTeX](https://mirrors.ibiblio.org/CTAN/info/guide-latex-fr/guide-latex-fr.pdf))
+- [Initiation à LaTeX](https://mirrors.ibiblio.org/CTAN/info/guide-latex-fr/guide-latex-fr.pdf)
 - [Débuter avec LaTeX](https://www.di.ens.fr/~ccheval/partie_1_2x2.pdf)
 
 ### Niveau intermédiaire
