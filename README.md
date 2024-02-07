@@ -91,6 +91,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 ### Sites académiques
 
 ### Clémentine Scohy
+- [Clémentine Scohy](https://madame-scohy.fr/about/)
 
 ### Christophe Poulain
 - [Melusine Syracuse](https://melusine.eu.org/syracuse/poulecl/)
