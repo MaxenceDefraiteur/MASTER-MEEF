@@ -115,8 +115,21 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - ajouts à venir
 
 # Philosophie-de-l-enseignement
+- modules suivis pendant les modules complémentaires
 - ajouts à venir
+
+# Minilab
+- Géométron (instrument de géométrie) : ajout à venir
+- [color=#26B260]texte coloré en vert[/color]
 
 
 # TICE
-- ajouts à venir
+## Services et logiciels libres
+- [Libre Office](https://www.coquillagesetpoincare.fr/)
+- [Github Pages](https://pages.github.com/)
+- [Framasoft](https://docs.framasoft.org/fr/grav/markdown.html#couleurs)
+- [Inkscape](https://inkscape.org/fr/)
+
+## Sites utiles pour une utilisation en classe
+- [Plickers](https://get.plickers.com/)
+- [Quizinière](https://www.quiziniere.com/login)
