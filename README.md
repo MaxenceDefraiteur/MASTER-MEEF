@@ -129,6 +129,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Github Pages](https://pages.github.com/)
 - [Framasoft](https://docs.framasoft.org/fr/grav/markdown.html#couleurs)
 - [Inkscape](https://inkscape.org/fr/)
+- [Wiktionary](https://www.wiktionary.org/) + en complément : [Dictionnaire de l'académie française](https://www.dictionnaire-academie.fr/)
 
 ## Sites utiles pour une utilisation en classe
 - [Plickers](https://get.plickers.com/)
