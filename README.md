@@ -55,6 +55,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 # Mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/) (Activités)
+- mémoire écrit : à venir
 
 # Portfolio
 - [Attendus de fin de formation](./Portfolio/aff-maxence-main/aff/index.html)
@@ -89,6 +90,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 ## Mathématiques 
 ### Sites académiques
+- ajouts à venir
 
 ### Professeurs de mathématiques
 
@@ -102,10 +104,11 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Coquillage et Poincaré](https://www.coquillagesetpoincare.fr/)
 
 # Lectures
-
+- ajouts à venir
 
 # Philosophie-de-l-enseignement
-
+- ajouts à venir
 
 
 # TICE
+- ajouts à venir
