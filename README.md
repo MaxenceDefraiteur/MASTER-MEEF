@@ -7,6 +7,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
     * [6 ème](#6eme)
     * [4 ème](#4eme)
   * [Lycée](#lycée)
+    * [Première](#première)
 * [Mémoire](#mémoire)
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
@@ -48,6 +49,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Corrections : exercices de remédiation](./Formations/Nombres.rationnels.Triangles.Egaux/Correction/Correction.exercices.de.remediation.pdf)
 
 ## Lycée
+### Première
 - Produit Scalaire
   - ajouts à venir
 - Trigonométrie
