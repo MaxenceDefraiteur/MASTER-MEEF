@@ -2,8 +2,6 @@
 Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports créés durant ma formation en Master MÉEF de Mathématiques. (2022-2024)
 
 # Table des matières
-* [Formations](#formations)
-  * [Stacking cups](#stacking-cups)
 * [Enseignement en stage](#enseignement-en-stage)
   * [Collège](#collège)
     * [6 ème](#6eme)
@@ -13,15 +11,13 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 * [Portfolio](#portfolio)
 * [Documentations](#documentations)
   * [LaTeX](#latex)
+* [Formations](#formations)
+  * [Stacking cups](#stacking-cups)
+* [Mathématiques](#mathématiques)
 * [Lectures](#lectures)
 * [Philosophie de l'enseignement](#philosophie-de-l-enseignement)
 
-# Formations
-## Stacking-cups
-- [Présentation Stacking cups](./Formations/Stacking.Cups/index.html) + [version pdf](./Formations/Stacking.Cups/pdf/stacking.cups.pdf)
-- [Fichier geogebra gobelets bleus](https://www.geogebra.org/m/rnhdexfe)
-- [Fichier geogebra gobelets rouges](https://www.geogebra.org/m/rxdfvqqr)
-- [Fichier final geogebra gobelets rouges et bleus](https://www.geogebra.org/m/uvgf5cak))
+
 
 # Enseignement-en-Stage
 ## Collège
@@ -34,11 +30,15 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
    - [Correction activité géogébra logo](./Enseignement/Stage/College/6eme/Activites/Correction.Activite.Geogebra.Belle.Figure.pdf)
    - [Parthénon fichier brut](./Enseignement/Stage/College/6eme/Activites/parthenon.bis.pdf)
 - Droites, figures usuelles
+   - ajouts à venir
 - Périmètre
+    - ajouts à venir
 
 ### 4eme
 - Nombres rationnels
+   - ajouts à venir
 - Théorème de Pythagore
+   - ajouts à venir
 
 
 #### Correction DS (nombres rationnels + triangles égaux)
@@ -49,9 +49,11 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 
 ## Lycée
 - Produit Scalaire
+  - ajouts à venir
 - Trigonométrie
   - [Impressions des élèves](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/Impressions_sur_les_trois_semaines_denseignement_vécues_pendant_les_périodes_de_stage_du_mois_de_novembre_2022_et_mars_2023_au_lycée_Yves_Kernanec._-_all_versions_-_labels_-_2023-03-30-19-41-01.pdf)
   - [Fichier geogebra trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/trigo.ggb)
+  - ajouts à venir
 
 # Mémoire
 - [MATHRIX](https://maxencedefraiteur.github.io/MATHRIX/) (Activités)
@@ -86,6 +88,10 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
 - [Tikz pour l'impatient](http://math.et.info.free.fr/TikZ/bdd/TikZ-Impatient.pdf)
 - [Tikz : tableau de variation et de signe](https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/tkz/tkz-tab/doc/TKZdoc-tab.pdf) ([CTAN](https://ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-tab))
 - [Beamer](https://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf)
+
+# Formations
+## Stacking-cups
+- [Présentation Stacking cups](./Formations/Stacking.Cups/index.html) + [version pdf](./Formations/Stacking.Cups/pdf/stacking.cups.pdf) + Fichiers geogebra : [gobelets bleus](https://www.geogebra.org/m/rnhdexfe) , [gobelets rouges](https://www.geogebra.org/m/rxdfvqqr) , [final](https://www.geogebra.org/m/uvgf5cak)
 
 
 ## Mathématiques 
