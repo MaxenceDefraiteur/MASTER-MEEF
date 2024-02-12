@@ -114,11 +114,14 @@ Temps d'apprentissage long au début mais cela fait gagner beaucoup de temps sur
 - [Coquillage et Poincaré](https://www.coquillagesetpoincare.fr/)
 
 # Lectures
-- ajouts à venir
+- Alain (Emile Chartier), Propos sur l'éducation
+- Jean-Jacques Rousseau, Emile ou de l'éducation
+- Bourbaki
+- Rapport de Villani et Torossian
 
 # Philosophie-de-l-enseignement
-- modules suivis pendant les modules complémentaires
-- ajouts à venir
+- Cours d'Alain Firode ( Modules complémentaires )
+- Cours en co-enseignement philosophique : M.LURSON et Mme.BOUTIER
 
 # Minilab
 - Géométron (instrument de géométrie) : ajout à venir (adaptation pour élève dyspraxique ? )
