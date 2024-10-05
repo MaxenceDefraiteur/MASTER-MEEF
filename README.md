@@ -55,7 +55,7 @@ Boîte de Pandore de Maxence Defraiteur rassemblant des documents ou supports cr
   - [Impressions des élèves](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/Impressions_sur_les_trois_semaines_denseignement_vécues_pendant_les_périodes_de_stage_du_mois_de_novembre_2022_et_mars_2023_au_lycée_Yves_Kernanec._-_all_versions_-_labels_-_2023-03-30-19-41-01.pdf)
   - [Fichier geogebra trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/trigo.ggb)
   - [Présentation trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/presentation.trigonometrie.pdf)
-  - [Démonstrations trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/TRIGOS.Démonstrations.Cours.Exos.pdf)
+  - [Démonstrations trigonométrie](./Enseignement/Stage/Lycee/TICE/Premiere/Trigonometrie/TRIGOS.Demonstrations.Cours.Exos.pdf)
   - ajouts à venir
 
 # Mémoire
